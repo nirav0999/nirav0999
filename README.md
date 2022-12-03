@@ -1,3 +1,5 @@
+I am Master of Science in Computer Science student at University of Illinois Urbana Champaign (UIUC). I work in the areas of Trustworthy Machine Learning, Natural Language Processing and Computer Security.
+
 - 👋 Hi, I’m @nirav0999
 - 👀 I’m interested in ML, NLP and Security & Privacy (S&P)
 - 🌱 I’m currently learning everyday :)
