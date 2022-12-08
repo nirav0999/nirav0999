@@ -3,7 +3,7 @@ I am Master of Science in Computer Science student at University of Illinois Urb
 - 👋 Hi, I’m @nirav0999
 - 👀 I’m interested in ML, NLP and Security & Privacy (S&P)
 - 🌱 I’m currently learning everyday :)
-- 💞️ I’m looking to collaborate on ML & Security based projects
+- 💞️ I’m looking to collaborate on ML, NLP & Security based projects
 - 📫 Reach me at nirdiwan@gmail.com
 
 <!---
