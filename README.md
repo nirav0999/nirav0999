@@ -5,7 +5,7 @@ I am Master of Science in Computer Science student at University of Illinois Urb
 - 🌱 I’m currently learning everyday :)
 - 💞️ I’m looking to collaborate on ML, NLP & Security & Privacy based projects
 - 📫 Reach me at nirdiwan@gmail.com
-- If you are looking to hire me -> ask my custom < a href="https://chat.openai.com/g/g-4g2P3UAfK-hire-nirav-gpt"> Hire-Nirav-GPT </a> 
+- Looking to hire me? Ask [Hire-Nirav-GPT](https://chat.openai.com/g/g-4g2P3UAfK-hire-nirav-gpt)
 
 <!---
 nirav0999/nirav0999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
